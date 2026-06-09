@@ -10,7 +10,7 @@
 ---
 
 - 🔭 Building **[SnapEnv](https://github.com/robin-replat/SnapEnv)**: a self-hosted platform that spins up ephemeral preview environments deployed with Kubernetes for every Pull Request, with full CI pipeline, quality gates and a real-time dashboard
-- 🏢 **Software Engineer @ Edvance (EDF UK)**: mostly shipping Streamlit apps to automate business processes, deployed on OpenShift with best practices
+- 🏢 **Software Engineer @ Edvance (Edvance UK)**: mostly shipping Streamlit apps to automate business processes, deployed on OpenShift with best practices
 - 🏭 Previously 3 years at **Michelin R&D**: built a Streamlit deployment hub serving 10+ apps in production, managed data on Azure Data Lake & PostgreSQL, digitized processes with the Power Platform, and set up monitoring with Grafana
 - 📜 Currently preparing the **CKA (Certified Kubernetes Administrator)** certification
 - 🎓 **Computer Science & Electronics, Data Engineering major**: Télécom Saint-Étienne (engineering school)
@@ -60,4 +60,4 @@
 
 ### Certifications
 
-🏅 Microsoft Certified: Fabric Data Engineer Associate · 🏅 GitHub Foundations · 🏅 MongoDB Data Modeling · 🏅 CCNA: Introduction to Networks · 🎯 *CKA (in progress)*
+🏅 CKA: Certified Kubernetes Administrator · 🏅 Microsoft Certified: Fabric Data Engineer Associate · 🏅 GitHub Foundations · 🏅 MongoDB Data Modeling · 🏅 CCNA: Introduction to Networks
